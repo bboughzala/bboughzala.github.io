@@ -1,16 +1,38 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bochra Boughzala personal academic website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+ You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
+I am a senior researcher at the Computing Science and Engineering Department (INGI) of the ICTEAM Institute at Université Catholique de Louvain (UCLouvain) in Louvain-la-Neuve, Belgium.
+I am currently a member of [Cloud and Large-Scale Computing](https://cloudlargescale-uclouvain.github.io/) group, led by Prof. Etienne Rivière. 
+
+<!-- 
+🎓 Congratulations to Dr. Bochra Boughzala on successfully defending her Ph.D. thesis, Accelerating Real-Time Data Analytics! Her work shows how middleware services such as publish/subscribe and stream processing systems can benefit from in-network computing. She proposes and analyzes mechanisms that:🔹 stabilize end-to-end latency in publish/subscribe systems🔹 accelerate consensus decisions🔹 horizontally scale streaming operators. All of these mechanisms run resource-efficiently on P4-programmable hardware. Congratulations, Bochra, and all the best for what comes next! 👏 -->
+I defended my Ph.D. thesis on enhancing the performance of distributed stream processing with in-network computing, in September 2026 at the University of Groningen, the Netherlands, under the supervision of Prof. Boris Koldehofe. 
+
+Before transitioning back to academia, I gained about 10 years of experience within R&D and telco industry, working as an experienced researcher at Ericsson Canada and a software developer for data center networking software at Montreal-based technology company called Kaloom, Inc. 
+<!-- (unfortunately filed for bankruptcy protection in 2023) -->
+
+I obtained my M.Sc in Computer Science at Université du Québec à Montréal, in 2013. 🇨🇦 
+
+Research Interests
+======
+- Cross-layer Optimizations & Specialized Hardware
+<!-- - High-speed packet processing -->
+- In-Network Computing & Software-Defined Networking (e.g., P4 Programmable Data Planes)
+- Distributed Stream Processing & Middleware Services (e.g., Publish/Subscribe)
+- Cloud Computing & Edge AI Systems
+- Systems & Networking Research
+
+<!-- 
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -53,4 +75,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
