@@ -18,10 +18,10 @@ I am currently a member of [Cloud and Large-Scale Computing](https://cloudlarges
 🎓 Congratulations to Dr. Bochra Boughzala on successfully defending her Ph.D. thesis, Accelerating Real-Time Data Analytics! Her work shows how middleware services such as publish/subscribe and stream processing systems can benefit from in-network computing. She proposes and analyzes mechanisms that:🔹 stabilize end-to-end latency in publish/subscribe systems🔹 accelerate consensus decisions🔹 horizontally scale streaming operators. All of these mechanisms run resource-efficiently on P4-programmable hardware. Congratulations, Bochra, and all the best for what comes next! 👏 -->
 I defended my Ph.D. thesis on enhancing the performance of distributed stream processing with in-network computing, in September 2026 at the University of Groningen, the Netherlands, under the supervision of Prof. Boris Koldehofe. 
 
-Before transitioning back to academia, I gained about 10 years of experience within R&D and telco industry, working as an experienced researcher at Ericsson Canada and a software developer for data center networking software at Montreal-based technology company called Kaloom, Inc. 
+Before transitioning back to academia, I gained about 10 years of experience within R&D and telco industry, working as an experienced researcher at Ericsson Canada and a software developer for data center networking software at a Montreal-based technology company called Kaloom, Inc. 
 <!-- (unfortunately filed for bankruptcy protection in 2023) -->
 
-I obtained my M.Sc in Computer Science at Université du Québec à Montréal, in 2013. 🇨🇦 
+I obtained my M.Sc in Computer Science at Université du Québec à Montréal, in 2013.
 
 Research Interests
 ======
